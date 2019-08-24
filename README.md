@@ -12,3 +12,6 @@ Believing that a person's basic abilities can be expanded upon through commintme
 1. I am inexperienced.
 2. I will take L's.
 3. I will bounce back
+
+### Readings
+Day 3 Readings[HERE](git.md)
