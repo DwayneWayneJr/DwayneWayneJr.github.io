@@ -14,4 +14,4 @@ Believing that a person's basic abilities can be expanded upon through commintme
 3. I will bounce back
 
 ### Readings
-Day 3 Readings[HERE](git.md)
+Day 2 Readings[HERE](git.md)
