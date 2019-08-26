@@ -12,3 +12,7 @@ Yo what up, this is my page where I'll upload my assignments. I'm new at this, s
 1. I am inexperienced.
 2. I will take L's.
 3. I will bounce back.
+
+### Table of Contents
+[Page](ToC.md)
+
