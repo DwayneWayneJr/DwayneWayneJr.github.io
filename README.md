@@ -10,10 +10,10 @@ Dwayne's the name and I grew up here in Washington. I was born in Tallahassee, F
 
 ### 3 Reminders
 
-* 1. I am inexperienced.
-* 2. I will take L's.
-* 3. I will bounce back
+1. I am inexperienced.
+2. I will take L's.
+3. I will bounce back
 
 ### Readings
 * Day 1 [Reading](Day1.md)
-* Day 2 [Reading] (Day2.md)
+* Day 2 [Reading](Day2.md)
