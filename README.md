@@ -14,4 +14,5 @@ Dwayne's the name and I grew up here in Washington. I was born in Tallahassee, F
 **3. I will bounce back**
 
 ### Readings
-Day 2 Readings[HERE](git.md)
+Day 1 Readings[HERES](Day1.md)
+Day 2 Readings[HERE](Day2.md)
