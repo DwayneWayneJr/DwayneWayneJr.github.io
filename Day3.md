@@ -1,0 +1,5 @@
+## Day 3 Reading
+
+Today we read about Git and the terminal commands that allow us to upload, commit and return the changes to the repository. Git is a distributed version control systems (DVCS) that stores data in a file sysytem made up of snapshots. You upload the snapshot or change made to your project and commit the change with a message saying what change was made. Lastly, you enter the command to push your changes from the terminal back to your repository remotely. The way you send your repository to the terminalis by cloning the repository's URL to the terminal. This allows remote access. The terminal allows the project to be continued remotely. It is interesting and a little intimidating at first, but once you start to understand the commands and navigating the terminal it becomes much easier.
+
+[Home](README.md)
