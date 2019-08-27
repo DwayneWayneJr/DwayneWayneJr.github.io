@@ -4,3 +4,4 @@
 3. [Day 1](Day1.md)
 4. [Day 2](Day2.md)
 5. [Day 3](Day3.md)
+6. [Day 4](Day4.md)
